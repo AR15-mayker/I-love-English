@@ -115,10 +115,11 @@ hard-working (трудоспособный) – less hard-working (менее т
 She was the most light-minded girl I have ever met. – Она была самой легкомысленной девушкой из всех, которых я когда-либо встречал.
 
 Исключения.
-image
+![image](https://github.com/user-attachments/assets/f5023f3b-5a08-4ce6-8bf0-bbc9fe47f166)
 
 Перевод:
-image
+![image](https://github.com/user-attachments/assets/595d6c7e-41e1-48fe-8884-8a4723867446)
 
 Исключения степеней сравнения прилагательных :
-image
+
+![image](https://github.com/user-attachments/assets/b16fc15b-f56a-4ba2-8238-edcbc9a4c824)
